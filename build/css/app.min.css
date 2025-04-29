@@ -773,7 +773,7 @@ select:disabled {
   }
 }
 .header {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/header.jpg");
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/fondo.jpg");
   background-position: 50%;
   background-size: cover;
   position: relative;
@@ -805,7 +805,7 @@ select:disabled {
 .cursos {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/cursos_bg.jpg");
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/AVALUOS.jpg");
   background-position: 50%;
   background-size: cover;
 }
